@@ -3,9 +3,9 @@ Driving shift registers using
 an AVR chip's hardwarre SPI
 
 SPI HARDVARE ATMEGA8 BITU SKAICIUOTUVAS
-http://jumptuck.com
 
 **/
+
 #include <avr/io.h>
 #include <util/delay.h>
 #define SHIFT_REGISTER DDRB
